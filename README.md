@@ -1,9 +1,12 @@
 # Matchstick
 Epitech project - jeu de Nîmes
 
-make
+# Usage
+  make
 
-./matchstick [Size_Of_Map] [Max_Stick/turn]
+  ./matchstick [Size_Of_Map] [Max_Stick/turn]
+  
+# Test 
 
 01 - Initial display of 4x4 board --> 100%
 
